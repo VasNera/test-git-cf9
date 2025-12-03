@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+.idea/
+TestGitProject.iml
+
+
+
+
+
+### Mac OS ###
+.DS_Store
